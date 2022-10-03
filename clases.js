@@ -1,5 +1,5 @@
 class Usuario {
-    constructor(nombre, apellido){
+    constructor(nombre, apellido, libros, mascotas){
         this.nombre = nombre
         this.apellido = apellido
         this.libros = []
